@@ -1,1 +1,0 @@
-# patrickkanexyz.github.io
