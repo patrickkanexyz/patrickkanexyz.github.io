@@ -5,4 +5,4 @@ Welcome to my Github Page.
 ## Topics
 
 - [State Machines](/statemachines.html)
-- [Go Programming Language](/golang/golang.html)
+- [Enums In Go](/golang-enums.html)
