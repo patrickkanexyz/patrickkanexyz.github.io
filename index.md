@@ -6,3 +6,4 @@ Welcome to my Github Page.
 
 - [State Machines](/statemachines.html)
 - [Enums In Go](/golang-enums.html)
+- [Bookmarks](/bookmarks.html)
