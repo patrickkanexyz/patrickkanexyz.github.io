@@ -1,3 +1,10 @@
 {{ define "main" }}
       {{ .Content }}
+	  <h2>Recent Posts</h2>
+	  {{ range first 5 .Site.RegularPages }}
+		<div>
+		<h3><a href="{{ .Permalink }}">{{ .Title }}</a> | {{ .Date | time.Format ":date_medium" }}</h3>
+		<p>{{ .Summary }}</p>
+		</div>
+	  {{ end }}
 {{ end }}
