@@ -4,6 +4,8 @@ date = 2024-12-14T16:52:56-08:00
 draft = false
 +++
 
-# Blog
+# Introduction
 
-This is Patrick Kane's blog.
+This is my blog. Most of the content here is editied notes from project I've
+worked on and problems I have encountered. Sometimes there might be something
+on lifestyle.
