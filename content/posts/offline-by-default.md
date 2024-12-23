@@ -4,8 +4,10 @@ date = 2024-12-21T20:32:50-08:00
 draft = true
 +++
 
-Having a high speed internet connection by default is very convenent, but does
+Having a high speed internet connection by default is very convenent and
 it come at the cost of productivity? Yes.
+greatly boosts your productivity, but does it come at the cost of your
+productivity? Yes.
 
 <!--more-->
 
