@@ -1,5 +1,7 @@
 # patrickkanexyz.github.io
 
-Development repos for my github page.
+Development repos for my personal website.
 
-The emoji graphics used in the favicon are from the open source project Twemoji. The graphics are copyright 2020 Twitter, Inc and other contributors. The graphics are licensed under CC-BY 4.0.
+By doing development in this repo I get automatic hosting to my github pages
+site. If I ever get around to hosting the site elsewhere I can just upload the
+repo there too.
