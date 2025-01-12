@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang='en-us'>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Patrick Kane's Website</title>
+        <!-- link rel="stylesheet" href="styles.css" -->
+		<style>
+			body {
+				color: white;
+			}
+			html {
+				background: black;
+			}
+		</style>
+    </head>
+    <body>
+		<h1>Configuration Constipation or Why Vi Instead of (Neo)Vim</h1>
+		<p>
+		Some time ago I coined the term 'configuration constipation' while
+		talking about computers and ricing. I used this term to refer to how I
+		would get stuck wasting lots of time configuring programs in a way that
+		didn't really get me any more practical use out of them.  This was most
+		apparent to me with regard to Vim.
+		</p>
+
+		<h2>Vim, An Into To Bloat</h2>
+		<p>
+		Vim is usually billed as a minimalistic, extensable text editor. On
+		inspection, only one of these claims appears to be true. Vim is very
+		extensable, but it is not minimalistic, as can be seen in size of the
+		source code, increasing number of features, and the fact that 'vim-tiny'
+		exists.
+		</p>
+		<p>
+		This large codebase comes with feature creep. I see this as a problem
+		because the extra features, even if you are not currently using them, 
+		server to draw your attention. This comes in the form of reading the
+		manuals and adding to your configuration. This is how people end up
+		with 500 line vimrc files. Those 500 lines are also going to need to be
+		kept up to date, which takes time. And, they will be the cause of many
+		hours of tinkering, usually with only minor improvments.
+		</p>
+		<p>
+		Next is the issue of extensablity. Extensablity can be a good thing,
+		but Vim's extensiablity these days tends to come in the worst form,
+		the plug-in.
+		</p>
+		<p>
+		Plug-in like extensability brings with it more configuration problems.
+		First, a plugin manager must be used, and configured. That takes time.
+		Next, plugins must be found, installed, and configured. More time.
+		And because of the nature of most plugin ecosystems, they will radically
+		change every few months with the ebb and flow of what is trendy. This
+		leads to the configuration constipation problem multiplying both in
+		scope and in time.
+
+		<h2>We Should Not Say Minimal When We Mean Simple</h2>
+		<a href="/index.html">Back to homepage.</a>
+    </body>
+</html>
