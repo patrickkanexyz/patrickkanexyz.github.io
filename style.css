@@ -1,6 +1,12 @@
 body {
 	color: #FFB000;
+	max-width: 640px;
+	margin: auto;
 }
 html {
 	background: black;
+}
+
+h2 {
+	text-align: center
 }
